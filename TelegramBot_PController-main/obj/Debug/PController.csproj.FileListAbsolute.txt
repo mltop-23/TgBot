@@ -1,0 +1,37 @@
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PController.exe.config
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PController.exe
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\PController.pdb
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.dll
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.pdb
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.xml
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\PController.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\PController.csproj.CopyComplete
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\PController.exe
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\PController.pdb
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\PController.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Администратор\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\HtmlAgilityPack.xml
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\PController.exe.config
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\PController.exe
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\PController.pdb
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\HtmlAgilityPack.pdb
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\HtmlAgilityPack.xml
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\Newtonsoft.Json.xml
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\Telegram.Bot.pdb
+D:\Unity Tests\Projects\TelegrammBot_PController\bin\Debug\Telegram.Bot.xml
+D:\Unity Tests\Projects\TelegrammBot_PController\obj\Debug\PController.csproj.AssemblyReference.cache
+D:\Unity Tests\Projects\TelegrammBot_PController\obj\Debug\PController.csproj.CoreCompileInputs.cache
+D:\Unity Tests\Projects\TelegrammBot_PController\obj\Debug\PController.csproj.CopyComplete
+D:\Unity Tests\Projects\TelegrammBot_PController\obj\Debug\PController.exe
+D:\Unity Tests\Projects\TelegrammBot_PController\obj\Debug\PController.pdb
